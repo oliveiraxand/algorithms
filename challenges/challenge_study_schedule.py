@@ -9,4 +9,4 @@ def study_schedule(permanence_period, target_time):
         if pp[0] <= target_time <= pp[1]:
             counter += 1
     return counter
-    raise NotImplementedError
+    # raise NotImplementedError
