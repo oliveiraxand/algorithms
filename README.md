@@ -18,11 +18,6 @@ Este projeto reúne uma série de desafios de programação propostos em um curs
 
 6. **Palíndromos (Iteratividade):** Similar ao desafio de palíndromos anterior, mas utilizando soluções iterativas.
 
-## Como Testar os Desafios
-
-1. Clone o repositório
-2. Acesse a pasta específica de cada desafio
-3. Siga as instruções do arquivo README.md presente em cada pasta para executar e testar os desafios
 
 ## Tecnologias Utilizadas
 
